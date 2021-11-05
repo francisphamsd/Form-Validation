@@ -1,7 +1,7 @@
 {
-  "name": "javascript",
+  "name": "log-in-page",
   "version": "1.0.0",
-  "description": "Template",
+  "description": "",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
